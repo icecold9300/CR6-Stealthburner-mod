@@ -63,10 +63,11 @@ last but not least, slide the PCB cover in place
 Remember to adjust the Vref of the extruder stepper to 0.8 for the LGX lite and to set e-steps to 562 as described in the LGX lite installation guide.
 Print and install the LGX filament sensor mount. Connect the filament sensor to the extruder with a PTFE tube, turn your machine on and voilà it's ready!
 
+I am not responsible in any way on how this impacts your printer. Use at your own risk :)
+
 ![IMG_20230406_202602](https://user-images.githubusercontent.com/130058317/230465120-6c86bd4b-d113-44fc-b062-4305302bf66b.jpg)
 ![IMG_20230406_202638](https://user-images.githubusercontent.com/130058317/230465125-06944f0d-150f-49fe-b499-5c49b51420da.jpg)
 ![IMG_20230406_202619](https://user-images.githubusercontent.com/130058317/230465129-490aa74f-2d91-4873-94fb-64981f18ae50.jpg)
 ![IMG_20230406_202611](https://user-images.githubusercontent.com/130058317/230465139-e6a2e996-57db-4b8c-883a-5feba51c4978.jpg)
 
-I am not responsible in any way on how this impacts your printer. Use at your own risk :)
 Extruder case base design by Eytecz
